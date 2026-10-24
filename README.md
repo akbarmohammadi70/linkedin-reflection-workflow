@@ -96,7 +96,7 @@ linkedin-reflection/
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com:akbarmohammadi70/linkedin-reflection-workflow.git ](https://github.com/akbarmohammadi70/linkedin-reflection-workflow.git)
+git clone https://github.com:akbarmohammadi70/linkedin-reflection-workflow.git
 cd linkedin-reflection-workflow
 ```
 
