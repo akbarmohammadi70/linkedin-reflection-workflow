@@ -213,7 +213,7 @@ A Python function measures the draft and supplies explicit quality signals to th
 
 This approach demonstrates an important principle in AI application development: combining language-model reasoning with deterministic validation can make workflows more measurable and easier to evaluate.
 
-## Key Learning Objectives
+## Key Objectives
 
 - Implement the Reflection Pattern in an LLM workflow
 - Design structured generation, critique, and revision stages
