@@ -96,8 +96,8 @@ linkedin-reflection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linkedin-reflection.git
-cd linkedin-reflection
+git clone [https://github.com:akbarmohammadi70/linkedin-reflection-workflow.git ](https://github.com/akbarmohammadi70/linkedin-reflection-workflow.git)
+cd linkedin-reflection-workflow
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
